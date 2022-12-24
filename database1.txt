@@ -1,0 +1,2 @@
+This is a document for the Simple Plagiarism Checker.
+Thanks To Codeclause for Providing this opportunity.
